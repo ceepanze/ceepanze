@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Afiq bin Omar
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Diploma in Game Design
